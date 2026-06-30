@@ -1,0 +1,29 @@
+# secrets & state
+auth.json
+auth.lock
+gateway_state.json
+gateway.lock
+*.db
+*.db-*
+state.db*
+verification_evidence.db
+# caches
+cache/
+audio_cache/
+image_cache/
+context_length_cache.yaml
+provider_models_cache.json
+ollama_cloud_models_cache.json
+models_dev_cache.json
+# runtime
+logs/
+sessions/
+sandboxes/
+processes.json
+lsp/
+bin/
+shared/
+channel_directory.json
+pastes/
+pairing/
+interrupt_debug.log

@@ -1,0 +1,5 @@
+mldmustamin — FundManager V2 dev (Kotlin/Compose + Laravel 11 + PG). VPS 103.94.11.78:80. 6 roles: OWNER/ADMIN/FM/SUP/FE/AUDITOR. Prefers: Indonesian, official docs (developer.android.com), thoroughness, subagents for parallel work, simplify-code, ACTION_LOG after every batch, Obsidian vault. Full parity Web↔Android. Android debug via Termux wireless ADB.
+§
+35 categories, 3 pagu: FIXED_PAGU (10), TICKET (12: wajib bukti, tanpa=FINANCE set nominal), MANAGER_APPROVAL (13: OWNER decides). Flow: FE est→SUP forward→OWNER approve+historis→FE realisasi→ADMIN+FM verify→FM reconcile.
+§
+mldmustamin — FundManager V2 (Kotlin/Compose + Laravel 11 + PG). VPS 103.94.11.78:80. 6 roles: OWNER/ADMIN/FM/SUP/FE/AUDITOR. User style: (1) research official docs BEFORE coding (developer.android.com). (2) update ALL docs per change (PRD, OPEN_QNA, ACTION_LOG, Obsidian). (3) report % progress per milestone. (4) Indonesian. (5) thoroughness over speed. (6) delegate_task/subagents for parallel progress. (7) ACTION_LOG per batch with symptom/diagnosis/fix/files/verification. (8) track hardcoded values in config.
